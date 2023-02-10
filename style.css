@@ -22,6 +22,11 @@ hr{
     width: 10%;
     margin: 0px auto 0px;
 }
+
+img {
+  max-width: 100%;
+}
+
 /* Classes */
 
 .title{
