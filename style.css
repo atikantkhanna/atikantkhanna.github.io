@@ -111,6 +111,15 @@ img {
     margin: 0 auto;
     padding: 5%;
     line-height: 2.5;
+    background-color: #FFFBEB;
+}
+
+#myjourney{
+    background-color: #FFFBEB;
+}
+
+#edu, #emp{
+    padding: 5% 7% 0;
 }
 
 #skills {
