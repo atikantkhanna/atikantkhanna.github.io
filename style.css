@@ -63,6 +63,9 @@ img {
     padding: 0 18px;
 }
 
+.text-justify {
+  text-align: justify;
+}
 
 .profile{
     padding: 5%;
@@ -148,8 +151,8 @@ img {
 }
 
 #typed-text-container {
-  min-width: 400px;   /* adjust based on longest sentence */
-  min-height: 1.5em;  /* keeps line height consistent */
+  min-width: 500px;   /* adjust based on longest sentence */
+  min-height: 2.5em;  /* keeps line height consistent */
   display: inline-block;
 }
 
